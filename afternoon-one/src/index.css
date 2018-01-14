@@ -70,11 +70,11 @@ body {
   height: 60px;
 }
 
-.inputLine {
+.inputLines {
   width: 300px;
   height: 15px;
-  font-size: 20px;
-  color: #fff;
+  font-size: 12px;
+  color: black;
   padding-bottom: 6px;
   border: none;
   border-bottom: solid 1px #3fbaf9;
@@ -83,8 +83,9 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  background: transparent;
+  background: white;
   margin-bottom: 20px;
+  
 }
 
 

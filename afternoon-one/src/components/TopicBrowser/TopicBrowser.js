@@ -8,11 +8,7 @@ import '../../index.css';
 import '../../App.css';
 
 class TopicBrowser extends Component {
-    constructor(){
-        super();
-
-        }
-    
+   
         render() {
             return (
               <div>
